@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sami (@imasretep)
+# 👋 Hi, I’m Sami (@imasretep), and I am currently studying Bachelor´s Degree in business and information technology at Karelia University of Applied Sciences. I started studying programming in autumn 2022.
 
 - 👀 I really enjoy both frontend and backend development, which is why I’m aiming to become a full-stack developer. I love the versatility of working on both aspects of development to create complete solutions.
 
