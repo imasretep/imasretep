@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sami (@imasretep)
 
-- 🎓 I am currently studying a Bachelor's Degree in Business Information Technology (210 ECTS credits, 3.5 years) at Karelia University of Applied Sciences. I began studying programming in autumn 2022
+- 🎓 I am currently studying a Bachelor's Degree in Business Information Technology (210 ECTS credits, 3.5 years) at Karelia University of Applied Sciences. I began studying programming in autumn 2022.
 
 - 👀 I really enjoy both frontend and backend development, which is why I’m aiming to become a full-stack developer. I love the versatility of working on both aspects of development to create complete solutions.
 
