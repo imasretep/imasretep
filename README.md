@@ -11,8 +11,6 @@
 - 📫 How to reach me: 
    - [GitHub](https://github.com/imasretep)
    - [LinkedIn](https://www.linkedin.com/in/imasretep)
-   
-- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: Besides coding, I enjoy composing music, funny cat videos and good food!
 
