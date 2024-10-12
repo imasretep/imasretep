@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning full-stack development techniques, focusing on frontend frameworks like React and backend technologies like Node.js and .NET. I’m also diving into C++ and JUCE to explore VST plugin development.
 
-- 💞️ I’m looking to collaborate on projects that involve application development, especially in fields like entrepreneurship, small business solutions, and creative coding with audio technologies.
-
 - 📫 How to reach me: 
    - [GitHub](https://github.com/imasretep)
    - [LinkedIn](https://www.linkedin.com/in/imasretep)
